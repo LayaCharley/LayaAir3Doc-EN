@@ -42,5 +42,4 @@ Provided: free community services, LayaAir integrated development environment (I
 
 Engine official website address: https://layaair.com/en/
 
-Engine community address: https://discord.com/invite/JbUBs7Qu
-
+Engine community address: https://discord.com/invite/ur8NBz9N4d

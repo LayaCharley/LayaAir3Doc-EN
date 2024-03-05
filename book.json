@@ -35,7 +35,7 @@
         },
         "tbfed-pagefooter": {
             "copyright": "Copyright ©Layabox 2022",
-            "modify_label": "更新时间：",
+            "modify_label": "Update：",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
         },
         "favicon-absolute": {
@@ -57,10 +57,6 @@
                 {
                     "value": "https://layaAir.com/3.1/doc/",
                     "text": "v3.1"
-                },
-                {
-                    "value": "https://layaAir.com/3.0/doc/",
-                    "text": "v3.0"
                 }
             ]
         }
@@ -71,5 +67,5 @@
     "structure": {
         "readme": "README.md"
     },
-    "title": "LayaAir3.0文档 · LAYABOX"
+    "title": "LayaAir3 Engine Documentation · LAYABOX"
 }
