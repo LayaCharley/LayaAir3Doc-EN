@@ -40,6 +40,6 @@ The LayaAir engine is open source and free, with a developer ecosystem of over o
 
 Provided: free community services, LayaAir integrated development environment (IDE), rich learning materials (documents, API, DEMO, videos).
 
-Engine official website address: https://layaair.com/en/
+Engine official website address: https://layaair.com/
 
-Engine community address: https://discord.com/invite/ur8NBz9N4d
+Engine community address: https://discord.gg/Q2yYJUC6gk
