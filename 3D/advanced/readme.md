@@ -14,4 +14,6 @@ The 3D advanced part includes comprehensive use of engine functions, advanced us
 
 ### [WebXR](../WebXR/readme.md)
 
+### [navMesh](../navMesh/readme.md)
+
 ### [Unity resource export plug-in](./Unity/readme.md)

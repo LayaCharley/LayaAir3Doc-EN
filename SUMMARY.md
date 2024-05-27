@@ -132,6 +132,7 @@
       * [Command Buffer](3D/advanced/CommandBuffer/readme.md)
       * [performance Optimization](3D/advanced/performanceOptimization/readme.md)
       * [WebXR](3D/WebXR/readme.md)
+      * [navMesh](3D/navMesh/readme.md)
       * [Unity Resource Plugin](3D/advanced/Unity/readme.md)
 - Publishing
     * [General Setting](released/generalSetting/readme.md)
