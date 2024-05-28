@@ -55,15 +55,15 @@
         "versions": {
             "options": [
                 {
-                    "value": " https://www.layaair.com/3.1/doc-en/",
+                    "value": "https://layaair.com/3.1/doc-en/",
                     "text": "v3.1"
                 },
                 {
-                    "value": " https://www.layaair.com/3.2/doc-en/",
+                    "value": "https://layaair.com/3.2/doc-en/",
                     "text": "v3.2"
                 },
                 {
-                    "value": " https://www.layaair.com/3.0/doc-en/",
+                    "value": "https://layaair.com/3.0/doc-en/",
                     "text": "v3.0"
                 }
             ]
