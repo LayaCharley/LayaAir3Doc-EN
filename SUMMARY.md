@@ -114,6 +114,7 @@
     * [Volumetric GI](IDE/Component/VolumetricGI/readme.md)
     * [StaticBatchVolume](IDE/Component/StaticBatchVolume/readme.md)
     * [LOD Group](IDE/Component/LOD/readme.md)
+    * [navMesh](IDE/Component/navMesh/readme.md)
   - [prefab](IDE/prefab/readme.md)
   - [layapackage](IDE/layapackage/readme.md)
     * [plug-in](IDE/layapackage/plug-in/readme.md)
@@ -132,7 +133,6 @@
       * [Command Buffer](3D/advanced/CommandBuffer/readme.md)
       * [performance Optimization](3D/advanced/performanceOptimization/readme.md)
       * [WebXR](3D/WebXR/readme.md)
-      * [navMesh](3D/navMesh/readme.md)
       * [Unity Resource Plugin](3D/advanced/Unity/readme.md)
 - Publishing
     * [General Setting](released/generalSetting/readme.md)

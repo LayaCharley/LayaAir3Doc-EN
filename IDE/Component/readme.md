@@ -22,3 +22,4 @@ Components of this chapter include:
 
 ### [LOD Group](./LOD/readme.md)
 
+### [navMesh](./navMesh/readme.md)
