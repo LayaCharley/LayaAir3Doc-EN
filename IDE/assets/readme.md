@@ -6,7 +6,7 @@ The document mainly explains and introduces the resources that need to be set up
 
 For example:
 
-### [Texture Resource Settings](./Texture/readme.md)
+### [Model Resource Settings](./model/readme.md)
 
 
 

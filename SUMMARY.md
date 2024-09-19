@@ -106,6 +106,8 @@
   - [Particle Editor](IDE/particleEditor/readme.md)
   - [Material Editor](IDE/materialEditor/readme.md)
   - [Shader Blueprint](IDE/ShaderBlueprint/readme.md)
+  - [Resource management](IDE/assets/readme.md)
+    * [Model import settings](IDE/assets/model/readme.md)
   - [Component](IDE/Component/readme.md)
     * [Mesh](IDE/Component/Mesh/readme.md)
     * [Trail](IDE/Component/Trail/readme.md)
