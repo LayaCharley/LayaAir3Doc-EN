@@ -138,7 +138,9 @@
       * [Unity Resource Plugin](3D/advanced/Unity/readme.md)
 - Publishing
     * [General Setting](released/generalSetting/readme.md)
-    * [Web](released/web/readme.md)
+    - [Web](released/web/readme.md)
+      * [CrazyGames](released/CrazyGames/readme.md)
+      * [Poki](released/Poki/readme.md)
     - [miniGame](released/miniGame/readme.md)
       * [wechat](released/miniGame/wechat/readme.md)
       * [tiktok](released/miniGame/byteDance/readme.md)
