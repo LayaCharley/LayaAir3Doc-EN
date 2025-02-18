@@ -1,4 +1,4 @@
-# 2D Trail Renderer (Trail2DRender)
+# 2D Trail Renderer 
 
 The 2D trail renderer can create a polygonal trail behind a moving game object. With this component, we can enhance the sense of motion of the game object and highlight the path or position of the object's movement.
 

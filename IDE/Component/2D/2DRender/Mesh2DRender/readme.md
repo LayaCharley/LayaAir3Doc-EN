@@ -1,4 +1,4 @@
-# 2D Grid Render
+# 2D Mesh Render
 
 ## 1. Introduction
 
