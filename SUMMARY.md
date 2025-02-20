@@ -160,6 +160,7 @@
     * [2D Physics](IDE/physicsEditor/physics2D/readme.md)
     * [2D Pathfinding](IDE/Component/2D/navMesh/readme.md)
   - [3D Built-in Components](IDE/Component/readme.md)
+    
     * [Meshes](IDE/Component/Mesh/readme.md)
     - [3D Rendering Components](IDE/Component/3DRender/readme.md)
       * [Particle Renderer](IDE/particleEditor3D/readme.md)
@@ -196,9 +197,11 @@
   * [General Build Settings](released/generalSetting/readme.md)
   * [Command-line Build](released/commandLine/readme.md)
   - [Web Build](released/web/readme.md)
+    
     * [CrazyGames](released/CrazyGames/readme.md)
     * [Poki](released/Poki/readme.md)
   - [Mini Game Release](released/miniGame/readme.md)
+    
     - [WeChat Mini Game](released/miniGame/wechat/readme.md)
       * [WeChat Mini Game Worker Usage](released/miniGame/wechat/Worker/readme.md)
     * [Douyin Mini Game](released/miniGame/byteDance/readme.md)
@@ -208,6 +211,7 @@
     * [Alipay Mini Game](released/miniGame/alipaygame/readme.md)
     * [Taobao Mini Game](released/miniGame/tbgame/readme.md)
   - [Native Package Development Basics](released/native/LayaNative_Introduction/readme.md)
+    
     * [LayaNative is Not a Browser](released/native/native_index/readme.md)
     * [Screen Orientation Settings](released/native/screen_orientation/readme.md)
     * [Splash Screen (LoadingView)](released/native/loading_view_new/readme.md)
@@ -221,10 +225,12 @@
     * [APK Expansion](released/native/apk_expansion/readme.md)
     * [Other Settings](released/native/Other_settings/readme.md)
   - [Windows Build](released/Windows/readme.md)
+    
     * [Windows Extensions](released/Windows/extension/readme.md)
     * [Steam Extension Example](released/Windows/steam/readme.md)
-  - [HarmonyOS NEX Build](released/Harmony/readme.md)
-    * [HarmonyOS NEX JavaScript Debugging](released/Harmony/debug/readme.md)
+  - [HarmonyOS NEXT Build](released/Harmony/readme.md)
+    
+    * [HarmonyOS NEXT JavaScript Debugging](released/Harmony/debug/readme.md)
   - [Android Build](released/Android/readme.md)
     * [Android JavaScript Debugging](released/Android/debug/readme.md)
   * [iOS Build](released/iOS/readme.md)
